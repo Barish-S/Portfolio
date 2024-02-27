@@ -140,7 +140,7 @@ body {
 }
 .card {
     width: calc(33.33% - 20px);
-    height: calc(50% - 80px);
+    height: calc(80% - 80px);
     border-radius: 10px;
     background: rgb(118, 124, 124);
     margin-bottom: 20px;
